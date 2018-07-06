@@ -1,0 +1,23 @@
+.btn-outline-secondary {
+    color: #f7f7f8;
+    background-color: transparent;
+    border-color: #eff1f1
+}
+
+
+#parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  #image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  #image2 {
+    position: absolute;
+    top: 20px;
+    left: 240px;
+    height: 89px;
+  }
